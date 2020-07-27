@@ -83,6 +83,16 @@ pygments_style = None
 #
 html_theme = 'sphinx_rtd_theme'
 
+html_theme_options = {
+    'logo_only': True,
+}
+
+html_context = {
+    "display_github": False, # Integrate GitHub
+}
+
+html_logo = '_static/images/layout/logo.png'
+
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
@@ -135,7 +145,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'DocumentationBouteg.tex', u'Documentation Bouteg Documentation',
+    (master_doc, 'DocumentationBouteg.tex', u'Documentation Bouteg',
      u'Bouteg Team', 'manual'),
 ]
 
@@ -145,7 +155,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'documentationbouteg', u'Documentation Bouteg Documentation',
+    (master_doc, 'documentationbouteg', u'Documentation Bouteg',
      [author], 1)
 ]
 

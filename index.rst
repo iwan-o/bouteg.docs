@@ -1,23 +1,22 @@
-.. Documentation Bouteg documentation master file, created by
-   sphinx-quickstart on Mon Jul 27 12:29:26 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Bienvenue sur la documentation Bouteg
 ================================================
 
+Premiers pas avec Bouteg
+------------------------
+
+Les bases pour faire bien fonctionner votre app Bouteg.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   getting-started-with-bouteg/index
+
+.. include:: /getting-started-with-bouteg/map.rst.inc
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Informations : 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-
+   contact
