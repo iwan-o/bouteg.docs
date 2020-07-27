@@ -16,7 +16,7 @@ To test the documentation before :
 
     `pip install Sphinx`
 
-* In the `docs` directory run `sphinx-build -b html . build` and view the generated HTML files in the `build` directory.
+* In the root directory run `make html` and view the generated HTML files in the `_build/html` directory.
 
 Authors
 -------
