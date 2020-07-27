@@ -1,0 +1,6 @@
+# Sphinx documentation
+docs/_build/
+
+###< More ###
+/bouteg_docs.code-workspace
+.DS_Store
