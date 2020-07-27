@@ -8,7 +8,7 @@ It is hosted by the great [readthedocs.org](http://readthedocs.org).
 Build
 -----
 
-To test the documentation before :
+To test the documentation :
 
 * [Install `pip`, Python package manager](https://pip.pypa.io/en/stable/installing/)
 
