@@ -5,7 +5,7 @@ Bienvenue sur la documentation Bouteg
 Premiers pas avec Bouteg
 ------------------------
 
-Les bases pour faire bien fonctionner votre application Bouteg.
+Les bases pour faire bien fonctionner votre super application Bouteg.
 
 .. toctree::
    :maxdepth: 2
