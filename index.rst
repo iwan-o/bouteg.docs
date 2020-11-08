@@ -2,17 +2,7 @@
 Bienvenue sur la documentation Bouteg
 ================================================
 
-Premiers pas avec Bouteg
-------------------------
-
-Les bases pour faire bien fonctionner votre application Bouteg.
-
-.. toctree::
-   :maxdepth: 2
-
-   getting-started-with-bouteg/index
-
-.. include:: /getting-started-with-bouteg/map.rst.inc
+La documentation est en cours d'écriture. Pour une assistance merci de nous contacter.
 
 .. toctree::
    :maxdepth: 2
