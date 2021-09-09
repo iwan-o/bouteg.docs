@@ -4,3 +4,4 @@ _build/
 ###< More ###
 /bouteg_docs.code-workspace
 .DS_Store
+.vscode

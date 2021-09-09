@@ -16,7 +16,7 @@ To test or generate the documentation :
 
     `pip install Sphinx`
 
-    `pip install sphinx_rtd_theme`
+    `pip install sphinx-rtd-theme`
 
 * In the root directory run `make html` and view the generated HTML files in the `_build/html` directory.
 

@@ -22,7 +22,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = u'Documentation Bouteg'
-copyright = u'2020, Bouteg Team'
+copyright = u'2021, Bouteg Team'
 author = u'Bouteg Team'
 
 # The short X.Y version
@@ -85,6 +85,8 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'logo_only': True,
+    'display_version': False,
+    'collapse_navigation': True,
 }
 
 html_context = {
@@ -119,8 +121,7 @@ html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'DocumentationBoutegdoc'
-
-
+html_css_files = ['css/style.css']
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_elements = {
