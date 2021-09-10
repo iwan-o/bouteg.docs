@@ -5,9 +5,10 @@ Ce tutoriel est dédié aux nouveaux arrivants Bouteg, qui souhaitent vérifier 
 faire une configuration de base, quelques petites personnalisations et être en mesure de vendre les premiers 
 produits dans leur nouvelle boutique en ligne.
 
-.. toctree::
-    :maxdepth: 10
-    :caption: Table des matières : 
+Mon premier produit
+-------------------
+Documentation est en cours d’écriture.
 
-    basic-configuration
-    first-product
+Configuration de base
+---------------------
+Documentation est en cours d’écriture.

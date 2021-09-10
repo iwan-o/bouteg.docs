@@ -1,12 +1,15 @@
-Mon catalogue de produits
+Catalogue de produits
 =========================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item.  
-At ille pellit, qui permulcet sensum voluptate. Sed plane dicit quod intellegit. Nam quid possumus facere melius.
+Bouteg vous permet de créer une base de données de produits. Celle-ci est au coeur de votre outil afin d’afficher ses articles dans votre boutique et de créer des commandes.
+
+Dans cette rubrique vous verrez comment ajoutez un produit en saisissant ses détails (description, images, prix, caractéristiques, catégories,..).
 
 .. toctree::
     :maxdepth: 10
     :caption: Table des matières : 
 
     manage-product
+    manage-categorys
     manage-inventoy
+    manage-suppliers

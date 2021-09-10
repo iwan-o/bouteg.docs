@@ -6,20 +6,20 @@ La documentation est en cours d'écriture. Pour une assistance merci de nous con
 
 Pages
 -------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item. At ille pellit, qui permulcet sensum voluptate.
+La documentation est en cours d'écriture. Pour une assistance merci de nous contacter.
 
 Sections
 -------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item. At ille pellit, qui permulcet sensum voluptate.
+La documentation est en cours d'écriture. Pour une assistance merci de nous contacter.
 
 Blocks
 -------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item. At ille pellit, qui permulcet sensum voluptate.
+La documentation est en cours d'écriture. Pour une assistance merci de nous contacter.
 
 Menus
 -------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item. At ille pellit, qui permulcet sensum voluptate.
+La documentation est en cours d'écriture. Pour une assistance merci de nous contacter.
 
 Short-codes
 -------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item. At ille pellit, qui permulcet sensum voluptate.
+La documentation est en cours d'écriture. Pour une assistance merci de nous contacter.

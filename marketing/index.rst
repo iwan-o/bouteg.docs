@@ -1,8 +1,9 @@
 Marketing
 =================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item.  
-At ille pellit, qui permulcet sensum voluptate. Sed plane dicit quod intellegit. Nam quid possumus facere melius.
+Pour aider à améliorer vos ventes Bouteg vous proposent des outils adaptés 
+à vos besoins et ceci via la création de campagnes d’e-mails ou encore 
+via la mise en place de réductions. 
 
 .. toctree::
     :maxdepth: 10

@@ -1,15 +1,17 @@
 Gérer mes ventes 
 ==================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod vestri non item.  
-At ille pellit, qui permulcet sensum voluptate. Sed plane dicit quod intellegit. Nam quid possumus facere melius.
+Bouteg vous permet de gérer en toute simplicité tout votre processus de vente :  
+de la prise de commande au paiement en ligne en passant par l’expédition. 
+Il gère aussi l’ensemble des documents associés (Commandes, Bon de livraisons, Factures).
 
 .. toctree::
     :maxdepth: 10
     :caption: Table des matières : 
 
     create-modify-orders
-    Information-on-orders
+    shipping-methods
+    payment-methods
     manage-shipments
     manage-payments
     invoice-orders

@@ -36,6 +36,9 @@ a {
   color: #269c80;
   text-decoration: none;
 }
+a:visited {
+  color: #269c80;
+}
 a:hover {
     color: #3eceac;
   }
@@ -44,6 +47,9 @@ a:hover {
 }
 .wy-menu-vertical a:active {
   background-color: #269c80;
+}
+.wy-menu-vertical a:visited {
+  color: #d9d9d9;
 }
 .wy-side-nav-search {
     background-color: #269c80;
