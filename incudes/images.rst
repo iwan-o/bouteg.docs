@@ -1,0 +1,1 @@
+.. |image btn create| image:: /_static/images/general/btn-create.png

@@ -86,3 +86,6 @@ html.writer-html5
   > dt {
   color: #269c80;
 }
+img.bordered {
+  border: 1px solid #ccc;
+}
