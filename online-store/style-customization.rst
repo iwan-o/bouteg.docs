@@ -1,3 +1,5 @@
+.. _online-store_style-customization:
+
 Apparence & personnalisation
 ============================
 

@@ -86,6 +86,12 @@ html.writer-html5
   > dt {
   color: #269c80;
 }
-img.bordered {
+img.img-capture-bordered {
   border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+@media only screen and (min-width: 768px) {
+  img.img-capture-bordered {
+    max-width: 80%;
+  }
 }

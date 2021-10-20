@@ -1,3 +1,5 @@
+.. _sales-management_manage-shipments:
+
 Gérer mes expditions
 ====================
 

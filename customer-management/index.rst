@@ -1,3 +1,5 @@
+.. _customer-management_index:
+
 Suivi de clientèle
 ==================
 

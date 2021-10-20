@@ -1,3 +1,5 @@
+.. _sales-management_manage-payments:
+
 Encaisser mes commandes
 =======================
 

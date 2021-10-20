@@ -1,3 +1,5 @@
+.. _marketing_discounts-index:
+
 Marketing
 =================
 

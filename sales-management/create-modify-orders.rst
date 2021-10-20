@@ -1,3 +1,5 @@
+.. _sales-management_create-modify-orders:
+
 Créer des commandes 
 ===================
 

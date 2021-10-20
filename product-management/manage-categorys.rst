@@ -1,5 +1,7 @@
 .. include:: /incudes/images.rst
 
+.. _product-management_manage-categorys:
+
 Organiser le catalogue par catégories
 =====================================
 
@@ -12,13 +14,12 @@ Créer une nouvelle catégorie
 
 A partir du menu latéral cliquez sur la rubrique "Catégories", puis cliquez sur le bouton "Créer" en haut à droite. 
 
-.. image:: /_static/images/product-management/nouvelle-categorie.png
-   :width: 80%
-   :class: bordered
-
+.. image:: /_static/images/product-management/create-category.png
+    :alt: Nouvelle catégorie
+    :class: img-capture-bordered
 
 1. Si vous sélectionner une valeur dans le premier champs "Parent", la catégorie créée deviendra alors une catégorie secondaire associée à la catégorie principale que vous aurez sélectionnée.
-2. Saisissez le "Nom" de votre catégorie. Le slug [#f1]_ sera généré automatiquement. 
+2. Saisissez le "Nom" de votre catégorie. Le slug [#f1]_ sera généré automatiquement à partir du nom du produit.
 3. Utilisez le champs "Description" pour indiquer à vos clients ce qu'ils trouveront dans cette catégorie. 
 4. Cliquez sur le bouton |image btn create| pour valider la création de la nouvelle catégorie.
 
@@ -29,12 +30,17 @@ Vous pouvez changer l’ordre d’affichage des catégories dans le menu de votr
 Pour cela à partir du menu latéral cliquez sur la rubrique "Catégories". La liste des catégories apparait, 
 utilisez la fonction "Glisser-Déposer" pour déplacer les catégories et sous-catégories.
 
-.. image:: /_static/images/product-management/index-categorie.png
-   :width: 80%
-   :class: bordered
+.. image:: /_static/images/product-management/index-category.png
+    :alt: liste des catégories
+    :class: img-capture-bordered
+
+
+Affilier un produit à une ou des catégories
+----------------------------------------------
+
+Pour plus d'informations, rendez-vous dans la section :ref:`product-management_manage-product`  .
 
 
 .. rubric:: Notes
 
 .. [#f1] Un slug d’URL désigne l'identification unique d'un élément permettant de créer un lien pour la page sur votre site web.
-

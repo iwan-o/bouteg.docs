@@ -1,3 +1,5 @@
+.. _online-store_index:
+
 Boutique en ligne
 =================
 

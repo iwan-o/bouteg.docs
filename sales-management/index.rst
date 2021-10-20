@@ -1,3 +1,5 @@
+.. _sales-management_create-index:
+
 Gérer mes ventes 
 ==================
 

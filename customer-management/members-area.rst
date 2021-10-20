@@ -1,3 +1,5 @@
+.. _customer-management_members-area:
+
 L'espace client
 ===============
 

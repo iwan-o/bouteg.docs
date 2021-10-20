@@ -1,3 +1,5 @@
+.. _marketing_discounts-e-mailing:
+
 Campagne d'e-mail
 =================
 

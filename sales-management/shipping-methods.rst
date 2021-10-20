@@ -1,3 +1,5 @@
+.. _sales-management_shipping-methods:
+
 Mode de livraisons
 ==================
 

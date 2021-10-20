@@ -1,3 +1,5 @@
+.. _sales-management_create-invoice-orders:
+
 Facturer mes commandes
 ======================
 

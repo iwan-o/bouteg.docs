@@ -1,3 +1,5 @@
+.. _customer-management_manage-customers:
+
 Gestion des clients
 =====================
 

@@ -1,3 +1,5 @@
+.. _online-store_configure-my-store:
+
 Paramétrer ma boutique
 ======================
 

@@ -1,3 +1,5 @@
+.. _product-management_index:
+
 Catalogue de produits
 =========================
 

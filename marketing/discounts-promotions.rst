@@ -1,3 +1,5 @@
+.. _marketing_discounts-promotions:
+
 Réductions & promotions
 =======================
 
