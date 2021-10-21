@@ -8,7 +8,7 @@ Bouteg vous permet de créer une base de données de produits. Celle-ci est au c
 Dans cette rubrique vous verrez comment ajoutez un produit en saisissant ses détails (description, images, prix, caractéristiques, catégories,..).
 
 .. toctree::
-    :maxdepth: 10
+    :maxdepth: 1
     :caption: Table des matières : 
 
     manage-product

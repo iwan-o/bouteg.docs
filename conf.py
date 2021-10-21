@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = u'Documentation Bouteg'
+project = u'Bouteg'
 copyright = u'2021, Bouteg Team'
 author = u'Bouteg Team'
 
@@ -75,6 +75,8 @@ exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
 
+
+html_favicon = 'favicon.ico'
 
 # -- Options for HTML output -------------------------------------------------
 

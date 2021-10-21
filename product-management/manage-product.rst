@@ -1,4 +1,5 @@
 .. include:: /incudes/images.rst
+.. include:: /incudes/dictionary.rst
 
 .. _product-management_manage-product:
 
@@ -27,7 +28,7 @@ Pour les autres type de produits le mode :ref:`product-management_manage-product
 Produit standard
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Une fois sur le formulaire de création d'un nouveau produit, il vous faut saisir les informations obligatoires pour que le produit puisse être publié.
+Une fois sur le formulaire de création d'un nouveau produit, il vous faut saisir les informations minimum obligatoires pour que le produit puisse être publié.
 
 C'est informations sont résumées dans l'onglet "Générale" :  
 
@@ -48,7 +49,7 @@ C'est informations sont résumées dans l'onglet "Générale" :
     Prix client renseignés en HT, comme dans le reste de la solution le TTC est calculé automatiquement en prenant en compte le taux de taxe renseigné.
 
 * Catégorie
-    Affilier votre produit à une ou des catégories. Par exemple le produit "carottes" peut être rangés dans la catégorie « Légumes ». Voir la section :ref:`product-management_manage-categorys` pour plus d'information sur la création de catégories. 
+    Affilier votre produit à une catégorie principale. Par exemple le produit "carottes" peut être rangés dans la catégorie « Légumes ». Voir la section :ref:`product-management_manage-categorys` pour plus d'information sur la création de catégories. 
 
 * Catégorie de taxe
     La TVA à apliquer à votre produit. De manière général le taux réduit (5,5%) concerne l'essentiel des produits alimentaires. Pour plus d'informations vous pouvez vous référer au `site du ministère de l'économie <https://www.economie.gouv.fr/cedef/taux-tva-france-et-union-europeenne>`_ 
@@ -135,4 +136,4 @@ Une fois toutes les valeurs saisient, cliquez sur le bouton |image btn create| p
 
 .. rubric:: Notes
 
-.. [#f1] Un slug d’URL désigne l'identification unique d'un élément permettant de créer un lien pour la page sur votre site web.
+.. [#f1] |dictionary field slug| 

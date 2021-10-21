@@ -8,7 +8,7 @@ de la prise de commande au paiement en ligne en passant par l’expédition.
 Il gère aussi l’ensemble des documents associés (Commandes, Bon de livraisons, Factures).
 
 .. toctree::
-    :maxdepth: 10
+    :maxdepth: 1
     :caption: Table des matières : 
 
     create-modify-orders

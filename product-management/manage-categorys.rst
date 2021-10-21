@@ -1,4 +1,5 @@
 .. include:: /incudes/images.rst
+.. include:: /incudes/dictionary.rst
 
 .. _product-management_manage-categorys:
 
@@ -18,10 +19,10 @@ A partir du menu latéral cliquez sur la rubrique "Catégories", puis cliquez su
     :alt: Nouvelle catégorie
     :class: img-capture-bordered
 
-1. Si vous sélectionner une valeur dans le premier champs "Parent", la catégorie créée deviendra alors une catégorie secondaire associée à la catégorie principale que vous aurez sélectionnée.
-2. Saisissez le "Nom" de votre catégorie. Le slug [#f1]_ sera généré automatiquement à partir du nom du produit.
-3. Utilisez le champs "Description" pour indiquer à vos clients ce qu'ils trouveront dans cette catégorie. 
-4. Cliquez sur le bouton |image btn create| pour valider la création de la nouvelle catégorie.
+#. Si vous sélectionner une valeur dans le premier champs "Parent", la catégorie créée deviendra alors une catégorie secondaire associée à la catégorie principale que vous aurez sélectionnée.
+#. Saisissez le "Nom" de votre catégorie. Le slug [#f1]_ sera généré automatiquement à partir du nom du produit.
+#. Utilisez le champs "Description" pour indiquer à vos clients ce qu'ils trouveront dans cette catégorie. 
+#. Cliquez sur le bouton |image btn create| pour valider la création de la nouvelle catégorie.
 
 
 Trier les catégories
@@ -43,4 +44,4 @@ Pour plus d'informations, rendez-vous dans la section :ref:`product-management_m
 
 .. rubric:: Notes
 
-.. [#f1] Un slug d’URL désigne l'identification unique d'un élément permettant de créer un lien pour la page sur votre site web.
+.. [#f1] |dictionary field slug| 

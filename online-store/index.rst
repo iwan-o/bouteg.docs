@@ -10,7 +10,7 @@ Dans cette rubrique vous verrez comment configurez mais aussi personnalisez votr
 ( menus, page d'accueil, pages de contenu, images...) afin d'optimiser votre visibilité et vos ventes.
 
 .. toctree::
-    :maxdepth: 10
+    :maxdepth: 1
     :caption: Table des matières : 
 
     style-customization
