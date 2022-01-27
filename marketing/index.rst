@@ -12,4 +12,5 @@ via la mise en place de codes de réductions et de promotions.
     :caption: Table des matières : 
 
     e-mailing
+    sms
     discounts-promotions
