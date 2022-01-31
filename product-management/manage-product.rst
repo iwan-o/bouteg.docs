@@ -6,7 +6,7 @@
 Créer & modifier des produits
 =============================
 
-Vous allez pouvoir voir ici comment saisir les fiches d'identification de vos produits dans votre catalogue.
+Vous allez pouvoir voir ici comment saisir les fiches d'identification de vos produits dans votre catalogue...
 
 Créer un nouveau produit
 ------------------------
