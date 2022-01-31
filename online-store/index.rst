@@ -3,10 +3,10 @@
 Boutique en ligne
 =================
 
-La boutique en ligne est votre site web personnel, il est le canal de vente dédier  à vos clients. 
+La boutique en ligne est votre site web personnel qui est le canal de vente dédié à vos clients. 
 Il tient aussi lieu de plateforme d’accueil et de présentation de votre entreprise. 
 
-Dans cette rubrique vous verrez comment configurez mais aussi personnalisez votre site 
+Dans cette rubrique, vous verrez comment configurer mais aussi personnaliser votre site 
 ( menus, page d'accueil, pages de contenu, images...) afin d'optimiser votre visibilité et vos ventes.
 
 .. toctree::
