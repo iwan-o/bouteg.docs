@@ -23,7 +23,7 @@ Filtrer les destinataires et prévisualiser
 
 Sur cette page, vous pouvez choisir qui de vos clients recevra cet SMS. 
 
-Sur cette page, vous pouvez corriger le contenu et l'objet de votre e-mail.
+Sur cette page aussi, vous pouvez corriger le contenu et l'objet de votre e-mail.
 Mais aussi vous envoyer un test en cliquant sur le bouton " M'envoyer un test". Ainsi, vous recevrez l'e-mail directement sur votre boite aux lettres personnelle. 
 
 .. image:: /_static/images/marketing/filtrer-les-images.png
