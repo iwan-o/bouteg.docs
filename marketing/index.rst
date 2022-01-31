@@ -3,9 +3,9 @@
 Marketing
 =================
 
-Pour aider à améliorer vos ventes Bouteg vous proposent des outils adaptés 
-à vos besoins et ceci via la création de campagnes d’e-mails ou encore 
-via la mise en place de codes de réductions et de promotions. 
+Pour permettre l'amélioration de vos ventes, Bouteg vous propose des outils adaptés 
+à vos besoins, et ceci via la création de campagnes d’e-mails ou encore 
+via la mise en place de codes de réduction et de promotion. 
 
 .. toctree::
     :maxdepth: 1
