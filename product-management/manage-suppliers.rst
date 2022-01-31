@@ -7,7 +7,7 @@ Gestion des fournisseurs
 ========================
 
 Vous avez la possibilité de définir un fournisseur pour vos produits.
-Pour cela 
+Pour cela, 
 
 Créer un nouveau fournisseur
 ------------------------------
