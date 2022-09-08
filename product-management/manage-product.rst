@@ -127,7 +127,7 @@ Une fois sur le formulaire de création d'une nouvelle variante, il vous faut sa
     Référence de la variante produit, tout comme pour le produit elle doit être unique et peut uniquement être constituée de lettres, chiffres, tirets et tirets bas. 
 
 * Prix de vente
-    Prix client renseignés en HT, comme dans le reste de la solution, le TTC est calculé automatiquement en prenant en compte le taux de taxe renseigné.
+    Prix client renseignés en TTC, comme dans le reste de la solution, la TVA est calculé automatiquement en prenant en compte le taux de taxe renseigné.
 
 * Options
     Sélectionner les valeurs correpondant à la combinaison que vous souhaitez créer. Par exemple : Taille = petite taille & Couleur = rouge
