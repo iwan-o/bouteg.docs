@@ -46,7 +46,7 @@ Ces informations sont résumées dans l'onglet "Général" :
     Référence produit, elle doit être unique et peut uniquement être constituée de lettres, chiffres, tirets et tirets bas. 
 
 * Prix de vente
-    Prix client renseignés en HT, comme dans le reste de la solution, le TTC est calculé automatiquement en prenant en compte le taux de taxe renseigné.
+    Prix client renseignés en TTC, comme dans le reste de la solution, la TVA est calculé automatiquement en prenant en compte le taux de taxe renseigné.
 
 * Catégorie
     Affiliez votre produit à une catégorie principale. Par exemple, le produit "carottes" peut être rangé dans la catégorie « Légumes ». Voir la section :ref:`product-management_manage-categorys` pour plus d'informations sur la création de catégories. 
